@@ -13,7 +13,7 @@ Reconociendo las necesidades y problemáticas del entorno.
 
 ### Evaluación
 - EV01. Calificable
-- Fechas: 28/07/2025 al 11/08/2025
+- Fechas: 05/09/2025 al 10/09/2025
 - Modalidad: Investigación
 - Tema: Necesidades y problemáticas del contexto productivo
 
